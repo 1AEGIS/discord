@@ -8,9 +8,9 @@
 
 
 ###### content:
-- [ ] modding ( data & graphics
-- [ ] ai scripting
-- [ ] rms scripting
-- [ ] tech support ( game crashing ?)
+- [x] modding ( data & graphics )
+- [x] ai scripting
+- [x] rms scripting
+- [x] tech support ( game crashing ?)
 
 :+1:
