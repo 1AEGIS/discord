@@ -1,6 +1,6 @@
 # discord
 
-<img alt="Discord" src="https://img.shields.io/discord/676402832106192917?style=plastic">
+<a href="https://discord.gg/jdnUcb9"><img alt="Discord" src="https://img.shields.io/discord/676402832106192917?style=plastic"></a>
 
  <a href="https://discord.gg/jdnUcb9"><img
                 alt="Discord"
